@@ -127,7 +127,6 @@ public class BbsDAO {
 			e.printStackTrace();
 		}
 		return null; 
-	
 	}
 	
 	public int update(int bbsID, String bbsTitle, String bbsContent) {

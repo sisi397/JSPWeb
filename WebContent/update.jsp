@@ -12,7 +12,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>암호응용</title>
+  <title> 게시판 웹 사이트</title>
 
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="css/business-frontpage.css" rel="stylesheet">
@@ -55,7 +55,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-      <a href="index.jsp" class="navbar-brand" href="#">게시판 제목</a>
+      <a href="index.jsp" class="navbar-brand">게시판 제목</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -75,8 +75,8 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="ture" aria-expanded="false">로그인</a>
             <div class="dropdown-menu" aria-labelledy="navbarDropdown">
-              <a href="login.jsp" class="dropdown-item" href="#">로그인</a>
-              <a href="join.jsp" class="dropdwn-item" href="#">회원가입</a>
+              <a href="login.jsp" class="dropdown-item">로그인</a>
+              <a href="join.jsp" class="dropdwn-item">회원가입</a>
               <div class="dropdown-divider"></div>
             </div>
           </li>
